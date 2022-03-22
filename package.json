@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/prabircodes/Natours_Exercised#readme",
   "devDependencies": {
-    "node-sass": "^7.0.1"
+    "node-sass": "^7.0.1",
+    "sass": "^1.49.9"
   }
 }
