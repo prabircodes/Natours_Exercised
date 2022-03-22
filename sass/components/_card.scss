@@ -72,12 +72,15 @@
     color: $color-white;
     position: absolute;
     top: 12rem;
-    left: 2rem;
+    left: 4rem;
     width: 75%;
   }
 
   &__heading-span {
     padding: 1rem 1.5rem;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+
     &--1 {
       background-image: linear-gradient(
         to right bottom,
